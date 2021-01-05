@@ -18,13 +18,13 @@
 依赖项安装示例：
 
 ```bash
-npm install --dev typescript prettier eslint eslint-plugin-import
+npm install --save-dev typescript prettier eslint eslint-plugin-import
 ```
 
 安装：
 
 ```bash
-npm install --dev @whitematrix/eslint-config
+npm install --save-dev @whitematrix/eslint-config
 ```
 
 ## 配置
