@@ -53,8 +53,10 @@ module.exports = {
     ],
     'object-curly-spacing': 2,
     'spaced-comment': [2, 'always', { markers: ['/'] }],
+    'import/prefer-default-export': 0,
     '@typescript-eslint/explicit-function-return-type': 2,
     '@typescript-eslint/no-explicit-any': 1,
+    '@typescript-eslint/interface-name-prefix': 1,
     '@typescript-eslint/no-unused-vars': 2,
     '@typescript-eslint/typedef': 2
   }
