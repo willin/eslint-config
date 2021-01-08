@@ -33,7 +33,7 @@ module.exports = {
     'arrow-body-style': [2, 'as-needed'],
     'comma-dangle': [2, 'never'],
     'consistent-return': 1,
-    'max-len': [1, 150, 2],
+    'max-len': [1, 120, 2],
     'newline-per-chained-call': 0,
     'no-console': 1,
     'no-mixed-operators': [
