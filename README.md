@@ -1,6 +1,6 @@
-# @white-matrix/eslint-config-ts
+# @willin/eslint-config
 
-[![npm](https://img.shields.io/npm/v/@white-matrix/eslint-config-ts.svg?style=plastic)](https://npmjs.org/package/@white-matrix/eslint-config-ts) [![npm](https://img.shields.io/npm/dm/@white-matrix/eslint-config-ts.svg?style=plastic)](https://npmjs.org/package/@white-matrix/eslint-config-ts) [![npm](https://img.shields.io/npm/dt/@white-matrix/eslint-config-ts.svg?style=plastic)](https://npmjs.org/package/@white-matrix/eslint-config-ts)
+[![npm](https://img.shields.io/npm/v/@willin/eslint-config.svg?style=plastic)](https://npmjs.org/package/@willin/eslint-config) [![npm](https://img.shields.io/npm/dm/@willin/eslint-config.svg?style=plastic)](https://npmjs.org/package/@willin/eslint-config) [![npm](https://img.shields.io/npm/dt/@willin/eslint-config.svg?style=plastic)](https://npmjs.org/package/@willin/eslint-config)
 
 ## 规则说明
 
@@ -24,7 +24,7 @@ npm install --save-dev typescript prettier eslint eslint-plugin-import
 安装：
 
 ```bash
-npm install --save-dev @white-matrix/eslint-config-ts
+npm install --save-dev @willin/eslint-config
 ```
 
 ## 配置
@@ -34,7 +34,7 @@ npm install --save-dev @white-matrix/eslint-config-ts
 ```yaml
 root: true
 extends:
-  - '@white-matrix/eslint-config-ts'
+  - '@willin'
   - plugin:@typescript-eslint/recommended-requiring-type-checking
 parserOptions:
   project: ./tsconfig.json

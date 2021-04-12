@@ -25,6 +25,7 @@ module.exports = {
     }
   },
   rules: {
+    'import/extensions': [2, 'ignorePackages', { js: 'never', jsx: 'never', ts: 'never', tsx: 'never' }],
     quotes: [2, 'single'],
     semi: 2,
     'object-curly-newline': 0,

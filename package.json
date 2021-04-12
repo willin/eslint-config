@@ -1,19 +1,19 @@
 {
-  "name": "@white-matrix/eslint-config-ts",
+  "name": "@willin/eslint-config",
   "version": "0.0.6",
-  "description": "White Matrix Eslint for TypeScript",
+  "description": "Eslint for TypeScript",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WhiteMatrixTech/eslint-config-ts.git"
+    "url": "git+https://github.com/willin/eslint-config-ts.git"
   },
   "keywords": [],
   "author": "Willin Wang",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/WhiteMatrixTech/eslint-config-ts/issues"
+    "url": "https://github.com/willin/eslint-config-ts/issues"
   },
-  "homepage": "https://github.com/WhiteMatrixTech/eslint-config-ts#readme",
+  "homepage": "https://github.com/willin/eslint-config-ts#readme",
   "devDependencies": {
     "eslint": "*",
     "eslint-plugin-import": "*",
