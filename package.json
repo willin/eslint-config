@@ -1,13 +1,17 @@
 {
   "name": "@willin/eslint-config",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "Eslint for TypeScript",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/willin/eslint-config-ts.git"
   },
-  "keywords": [],
+  "keywords": [
+    "ESLint",
+    "TypeScript",
+    "Willin"
+  ],
   "author": "Willin Wang",
   "license": "Apache-2.0",
   "bugs": {
